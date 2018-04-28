@@ -1,0 +1,37 @@
+body{
+   
+    background-position:contain; 
+    background-repeat:no-repeat;
+    background-image:url("../images/background.jpg");
+  
+}
+
+#container{
+    margin:0 auto;
+    text-align:center;
+    width:960px;
+    color:white;
+}
+
+#container2{
+    text-overflow:auto;
+}
+#buttonArea{
+     border: dashed green 2px;
+
+}
+
+h1{
+    font-family: 'Russo One', sans-serif;
+    color:white;
+}
+
+.floaty{
+    float:right;
+    clear:right;
+   /* background-image:url("../images/rocket.jpg")*/
+}
+
+.classButtons{
+    display:inline-block;
+}
